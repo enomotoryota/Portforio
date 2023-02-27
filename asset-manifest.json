@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portforio/static/css/main.4da893d4.css",
-    "main.js": "/Portforio/static/js/main.8892802a.js",
+    "main.js": "/Portforio/static/js/main.e9dba085.js",
     "static/js/787.f13aca37.chunk.js": "/Portforio/static/js/787.f13aca37.chunk.js",
     "static/media/Web.png": "/Portforio/static/media/Web.04b789fa9f9b89202d0f.png",
     "static/media/img3.png": "/Portforio/static/media/img3.f20e99d686125d269f85.png",
@@ -10,11 +10,11 @@
     "static/media/img4.png": "/Portforio/static/media/img4.283f6b01cb7e721ac587.png",
     "index.html": "/Portforio/index.html",
     "main.4da893d4.css.map": "/Portforio/static/css/main.4da893d4.css.map",
-    "main.8892802a.js.map": "/Portforio/static/js/main.8892802a.js.map",
+    "main.e9dba085.js.map": "/Portforio/static/js/main.e9dba085.js.map",
     "787.f13aca37.chunk.js.map": "/Portforio/static/js/787.f13aca37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4da893d4.css",
-    "static/js/main.8892802a.js"
+    "static/js/main.e9dba085.js"
   ]
 }
